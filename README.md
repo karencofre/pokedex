@@ -35,5 +35,5 @@ i want to keep getting better at interface design and made an app with persistan
 
 ## Author
 
-- Website - [karen cofre](http://www.bittenrainbow.me) 
+- Website - [karen cofre](https://www.karencofre.tech) 
  
