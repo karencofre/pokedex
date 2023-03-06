@@ -15,8 +15,13 @@ This project its connected to the pokeapi
 ## Overview
  
 ### Screenshot
+<p align="center">
+  <img src="./content.png" width="300" title="hover text"> 
+</p>
 
-![](./content.png) ![](./detail.png)
+<p align="center">
+  <img src="./detail.png" width="300" title="hover text"> 
+</p>
  
 ### Links
 
