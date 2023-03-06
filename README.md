@@ -1,4 +1,4 @@
-# PocketmonstersPokeDex - APP
+# PokeDex - APP
 
 This project its connected to the pokeapi
 
